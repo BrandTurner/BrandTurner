@@ -1,0 +1,18 @@
+{
+  "generator-telescope-app": {
+    "appName": "BrandTurner",
+    "appPath": "app",
+    "facebookId": "444172322357134",
+    "widgetId": "data/data.json",
+    "gaId": "UA-XXXXX-X",
+    "homepageUrl": "http://brandturner.com",
+    "gitUrl": "http://github.com/BrandTurner",
+    "testFramework": "mocha",
+    "templateFramework": "lodash",
+    "includeBootstrap": true,
+    "includeSass": true,
+    "includeLibSass": true,
+    "includeRubySass": false,
+    "includeCryptoJS": true
+  }
+}
